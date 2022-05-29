@@ -1,3 +1,6 @@
+### Description :
+Template can be used to create a resume.. The code is open source and you can benefit from it  🥰.
+
 Directory Structure
 -------------------
 css\              - Stylesheets CSS files for the template.
